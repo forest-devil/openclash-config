@@ -1,0 +1,8 @@
+payload:
+  - DST-PORT,24443
+  - DST-PORT,4444
+  - DST-PORT,14444
+  - DOMAIN-SUFFIX,hiveon.net
+  - DOMAIN-SUFFIX,hiveos.farm
+  - DOMAIN-SUFFIX,ton-pool.com
+  - DOMAIN-SUFFIX,ton-pool.club
